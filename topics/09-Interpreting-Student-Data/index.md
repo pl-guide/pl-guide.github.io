@@ -1,7 +1,7 @@
 ---
 parent: Topics
-layout: default
-title: "09: Interpreting Student Data"
+title: "9: Interpreting Student Data"
+nav_order: "09"
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 parent: Topics
-layout: default
-title: "06: Question Design Workflow"
+title: "6: Question Design Workflow"
+nav_order: "06"
 has_children: true
 ---
 

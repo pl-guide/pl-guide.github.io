@@ -1,7 +1,7 @@
 ---
 parent: Topics
-layout: default
-title: "07: Instrumenting Questions For Data Collection"
+title: "7: Instrumenting Questions For Data Collection"
+nav_order: "07"
 has_children: true
 ---
 

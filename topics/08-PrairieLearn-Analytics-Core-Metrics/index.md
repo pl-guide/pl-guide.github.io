@@ -1,7 +1,7 @@
 ---
 parent: Topics
-layout: default
-title: "08: PrairieLearn Analytics Core Metrics"
+title: "8: PrairieLearn Analytics Core Metrics"
+nav_order: "08"
 has_children: true
 ---
 
