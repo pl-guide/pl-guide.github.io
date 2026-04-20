@@ -6,3 +6,6 @@ has_children: true
 ---
 
 # {{page.title}}
+
+1. TOC
+{:toc}
